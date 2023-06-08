@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Petrona:wght@100;500&family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 10 px;
+    padding: 15 px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e5d697;
+    margin-top: 84px;
+    margin-bottom: -20px;
+    margin-right: 50px;
+    margin-left: 198px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main{
+    background-color: #ffffff9c;
+    width: 1500px;
+    border: 5px dashed rgba(78, 77, 83, 0.505);
+    margin: 5px;
+    padding: 20px;
+    
+}
+
+header{
+    margin: 20px 0;
+    text-align: center;
+    padding: 10px;
+
+}
+
+header img{
+    float: left;
+    margin-left: -102px;
+    margin-top: 10px;
+    width: 400px;
+    height: 400px;
+
+}
+
+
+p {
+    text-align: center;
+    size: 20px;
+    font-weight: 200;
+    margin-right: -8px;
+    margin-left: -2px;
+    margin-top: 107px;
+    margin-bottom: -11px;
+    border: 1px solid #394444;
+    width: 60%;
+    display: inline-block;
+}
+    
+  
+
+h1 {
+    float: right;
+    margin: 46px 550px -48px 10px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.399);
+    letter-spacing: 3px;
+}
+      
+
+img{
+    box-shadow: 10px 10px 50px 10px #747458;
+}
+
+.clear {
+    clear: both;
+}
