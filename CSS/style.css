@@ -26,9 +26,9 @@ main{
 }
 
 header{
-    margin: 20px 0;
+    margin: -33px 0;
     text-align: center;
-    padding: 10px;
+    padding: -47px;
 
 }
 
@@ -63,10 +63,12 @@ span{
   
 
 h1 {
+    
     float: right;
-    margin: 46px 550px -48px 10px;
+    margin: 76px 598px -48px 10px;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.399);
     letter-spacing: 3px;
+    
 }
       
 
@@ -78,7 +80,12 @@ img{
     clear: both;
 }
 
-.hobbies h1 :hover{
+.hobbies :hover{
     color: #5e4f24;
+
+}
+
+h3{
+    color: #978d63;
 
 }
